@@ -12,6 +12,7 @@ A curated list of MCP (Model Context Protocol) servers for sales, CRM, and reven
 
 - [CRM Platforms](#crm-platforms)
 - [Sales Engagement](#sales-engagement)
+- [Community Contributions](#community-contributions) 🆕
 
 ---
 
@@ -30,6 +31,18 @@ A curated list of MCP (Model Context Protocol) servers for sales, CRM, and reven
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [LinkedIn MCP](https://github.com/stickerdaniel/linkedin-mcp-server) | LinkedIn profile and job search | Requires account | ![GitHub stars](https://img.shields.io/github/stars/stickerdaniel/linkedin-mcp-server?style=flat) |
+
+---
+
+## Community Contributions
+
+> 🙏 Thanks to these contributors who submitted their MCP servers!
+
+### Bug Tracking & Feedback
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [bugherd-mcp](https://github.com/Berckan/bugherd-mcp) | BugHerd feedback MCP | Free | ![stars](https://img.shields.io/github/stars/Berckan/bugherd-mcp?style=flat) | *[@Berckan](https://github.com/Berckan)* |
 
 ---
 
