@@ -11,6 +11,7 @@ A curated list of MCP (Model Context Protocol) servers for sales, CRM, and reven
 ## Contents
 
 - [CRM Platforms](#crm-platforms)
+- [Sales Engagement](#sales-engagement)
 
 ---
 
@@ -19,6 +20,16 @@ A curated list of MCP (Model Context Protocol) servers for sales, CRM, and reven
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [HubSpot MCP](https://github.com/hubspot/mcp-server) | HubSpot CRM | Freemium | ![GitHub stars](https://img.shields.io/github/stars/hubspot/mcp-server?style=flat) |
+| [Salesforce MCP](https://github.com/tsmztech/mcp-server-salesforce) | Salesforce CRM integration | Requires account | ![GitHub stars](https://img.shields.io/github/stars/tsmztech/mcp-server-salesforce?style=flat) |
+| [Atlassian MCP](https://github.com/sooperset/mcp-atlassian) | Jira + Confluence combined | Free | ![GitHub stars](https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=flat) |
+
+---
+
+## Sales Engagement
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [LinkedIn MCP](https://github.com/stickerdaniel/linkedin-mcp-server) | LinkedIn profile and job search | Requires account | ![GitHub stars](https://img.shields.io/github/stars/stickerdaniel/linkedin-mcp-server?style=flat) |
 
 ---
 
